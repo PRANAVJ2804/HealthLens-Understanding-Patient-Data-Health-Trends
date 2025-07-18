@@ -70,55 +70,55 @@ We analyzed patient health records to uncover trends influencing heart disease r
 
 ## 📊 EDA
 
-### 🧵 Average Cholestrol by Disease Status
+### 🧪 Average Cholestrol by Disease Status
 ![Average Cholestrol by Disease Status](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Average%20Cholestrol%20by%20Disease%20Status.png)
 
-### 👥 Distribution for age for Non-Heart Disease Patient
+### 👤📊 Distribution for age for Non-Heart Disease Patient
 ![Distribution for age for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20for%20age%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📊 Distribution of Age for Heart Disease Patient
+### ❤️📊 Distribution of Age for Heart Disease Patient
 ![Distribution of Age for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20Age%20for%20Heart%20Disease%20Patient.png)
 
-### 📈 Distribution of bp_at_admission for Heart Disease Patient
+### 💉📈 Distribution of bp_at_admission for Heart Disease Patient
 ![Distribution of bp_at_admission for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Heart%20Disease%20Patient.png)
 
-### 📊 Distribution of bp_at_admission for Non-Heart Disease Patient
+### 💉📉 Distribution of bp_at_admission for Non-Heart Disease Patient
 ![Distribution of bp_at_admission for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 👨‍👩‍👧‍👦 Distribution of Cholestrol for Heart Disease Patient
+### ❤️🧪 Distribution of Cholestrol for Heart Disease Patient
 ![Distribution of Cholestrol for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 🍱 Distribution of Cholestrol for Non-Heart Disease Patient
+### 🫀🧪 Distribution of Cholestrol for Non-Heart Disease Patient
 ![Distribution of Cholestrol for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20Cholestrol%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of max_heart_rate for Heart Disease Patient
+### ❤️🏃‍♂️ Distribution of max_heart_rate for Heart Disease Patient
 ![Distribution of max_heart_rate for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20max_heart_rate%20for%20Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of max_heart_rate for Non-Heart Disease Patient
+### 🫀🏃‍♀️ Distribution of max_heart_rate for Non-Heart Disease Patient
 ![Distribution of max_heart_rate for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20max_heart_rate%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of no_of_major_vessels for Heart Disease Patient
+### ❤️🧬 Distribution of no_of_major_vessels for Heart Disease Patient
 ![Distribution of no_of_major_vessels for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20no_of_major_vessels%20for%20Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of no_of_major_vessels for Non-Heart Disease Patient
+### 🫀🧬 Distribution of no_of_major_vessels for Non-Heart Disease Patient
 ![Distribution of no_of_major_vessels for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20no_of_major_vessels%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of st_depression for Heart Disease Patient
+### ❤️📉 Distribution of st_depression for Heart Disease Patient
 ![Distribution of st_depression for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20st_depression%20for%20Heart%20Disease%20Patient.png)
 
-### 📘 Distribution of st_depression for Non-Heart Disease Patient
+### 🫀📉 Distribution of st_depression for Non-Heart Disease Patient
 ![Distribution of st_depression for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20st_depression%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📘 Heart Disease by Age Group
+### 🧓📊 Heart Disease by Age Group
 ![Heart Disease by Age Group](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heart%20Disease%20by%20Age%20Group.png)
 
-### 📘 Heart Disease by Gender
+### 🚻❤️ Heart Disease by Gender
 ![Heart Disease by Gender](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heart%20Disease%20by%20Gender.png)
 
-### 📘 Maximum Heart Rate by Age Group 
+### 👶🧓🏃‍♂️ Maximum Heart Rate by Age Group 
 ![Maximum Heart Rate by Age Group ](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Maximum%20Heart%20Rate%20by%20Age%20Group%20.png)
 
-### 🔥 Correlation Heatmap
+### 🔍📊 Correlation Heatmap
 ![Correlation Heatmap](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heatmap%20Correlation%20Matrix.png)
 
 ---

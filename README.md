@@ -187,7 +187,7 @@ This project provided a comprehensive view of how patient health metrics contrib
 
 You can find the SQL queries and logic used for backend analysis in the following file:
 
-📄 [`SQL Analysis File.sql`](https://github.com/A-Patel23/Student-Performance-Project/blob/73b25c892568192beb2295825f49907f9a32a6fc/Sql%20File/SQL%20Analysis%20File.sql)
+📄 [`SQL Analysis File.sql`](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/SQL/Sql%20Analysis%20File.sql)
 
 ---
 

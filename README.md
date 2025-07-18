@@ -7,6 +7,7 @@
 ## 📌 Project Description
 
 This project analyzes health records to identify patterns in cardiovascular risk and patient demographics. The dataset includes clinical variables such as age, sex, cholesterol, blood pressure, and more. Our objective is to uncover insights that can assist medical professionals in early detection and improved healthcare planning.
+
 **Dataset Source:** [Heart Disease UCI Dataset](https://www.kaggle.com/datasets/cherngs/heart-disease-cleveland-uci)
 
 ---
@@ -69,32 +70,56 @@ We analyzed patient health records to uncover trends influencing heart disease r
 
 ## 📊 EDA
 
-### 🧵 Distribution of Grades
-![Distribution of Grades](./Images/distribution_of_grades.png)
+### 🧵 Average Cholestrol by Disease Status
+![Average Cholestrol by Disease Status](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Average%20Cholestrol%20by%20Disease%20Status.png)
 
-### 👥 Student Gender Breakdown
-![Distribution by Gender](./Images/distribution_by_gender.png)
+### 👥 Distribution for age for Non-Heart Disease Patient
+![Distribution for age for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20for%20age%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📊 Count by Gender and Group
-![Gender & Group Count](./Images/count_gender_group.png)
+### 📊 Distribution of Age for Heart Disease Patient
+![Distribution of Age for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20Age%20for%20Heart%20Disease%20Patient.png)
 
-### 📈 Average Score by Subject
-![Average Score by Subject](./Images/average_score_by_subject.png)
+### 📈 Distribution of bp_at_admission for Heart Disease Patient
+![Distribution of bp_at_admission for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Heart%20Disease%20Patient.png)
 
-### 📊 Gender-wise Subject Scores
-![Average Score by Gender](./Images/average_score_by_gender.png)
+### 📊 Distribution of bp_at_admission for Non-Heart Disease Patient
+![Distribution of bp_at_admission for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 👨‍👩‍👧‍👦 Score by Group & Parental Education
-![Score by Group & Education](./Images/score_by_group_and_parental_education.png)
+### 👨‍👩‍👧‍👦 Distribution of Cholestrol for Heart Disease Patient
+![Distribution of Cholestrol for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20bp_at_admission%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 🍱 Lunch & Test Preparation
-![Performance by Lunch & Test Prep](./Images/performance_by_lunch_and_test_prep.png)
+### 🍱 Distribution of Cholestrol for Non-Heart Disease Patient
+![Distribution of Cholestrol for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20Cholestrol%20for%20Non-Heart%20Disease%20Patient.png)
 
-### 📘 Test Prep Impact by Gender & Group
-![Test Prep by Gender & Group](./Images/test_prep_by_gender_and_group.png)
+### 📘 Distribution of max_heart_rate for Heart Disease Patient
+![Distribution of max_heart_rate for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20max_heart_rate%20for%20Heart%20Disease%20Patient.png)
+
+### 📘 Distribution of max_heart_rate for Non-Heart Disease Patient
+![Distribution of max_heart_rate for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20max_heart_rate%20for%20Non-Heart%20Disease%20Patient.png)
+
+### 📘 Distribution of no_of_major_vessels for Heart Disease Patient
+![Distribution of no_of_major_vessels for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20no_of_major_vessels%20for%20Heart%20Disease%20Patient.png)
+
+### 📘 Distribution of no_of_major_vessels for Non-Heart Disease Patient
+![Distribution of no_of_major_vessels for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20no_of_major_vessels%20for%20Non-Heart%20Disease%20Patient.png)
+
+### 📘 Distribution of st_depression for Heart Disease Patient
+![Distribution of st_depression for Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20st_depression%20for%20Heart%20Disease%20Patient.png)
+
+### 📘 Distribution of st_depression for Non-Heart Disease Patient
+![Distribution of st_depression for Non-Heart Disease Patient](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Distribution%20of%20st_depression%20for%20Non-Heart%20Disease%20Patient.png)
+
+### 📘 Heart Disease by Age Group
+![Heart Disease by Age Group](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heart%20Disease%20by%20Age%20Group.png)
+
+### 📘 Heart Disease by Gender
+![Heart Disease by Gender](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heart%20Disease%20by%20Gender.png)
+
+### 📘 Maximum Heart Rate by Age Group 
+![Maximum Heart Rate by Age Group ](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Maximum%20Heart%20Rate%20by%20Age%20Group%20.png)
 
 ### 🔥 Correlation Heatmap
-![Correlation Heatmap](./Images/correlation_heatmap.png)
+![Correlation Heatmap](https://github.com/PRANAVJ2804/HealthLens-Understanding-Patient-Data-Health-Trends/blob/main/Images/Heatmap%20Correlation%20Matrix.png)
 
 ---
 
